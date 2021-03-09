@@ -10,11 +10,14 @@ This project focuses on a combination of SwiftUI elements such as:
 * Choose how many questions you wish to answer.
 
 ### Screenshots:
-* Home screen (settings) and Quiz Screens
+Home screen (settings) and Quiz Screens
+
 <img src = "images/homescreen.png" height = "450"> <img src = "images/quizscreen.png" height = "450">
 
-* Correct and Incorrect guesses
+Correct and Incorrect guesses
+
 <img src = "images/correct.png" height = "450"> <img src = "images/incorrect.png" height = "450">
 
-* Results alert
+Results alert
+
 <img src = "images/results.png" height = "450">
